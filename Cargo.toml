@@ -1,0 +1,11 @@
+[package]
+name = "on-state-change"
+version = "0.1.0"
+edition = "2021"
+description = "Macro to reduce boilerplate code handling results that start returning errors"
+license = "MIT"
+repository = "https://github.com/sheijningen/on-state-change"
+readme = "README.md"
+keywords = ["macro", "run-once", "once", "run-once-thread"]
+
+[dependencies]
